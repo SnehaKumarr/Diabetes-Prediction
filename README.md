@@ -45,3 +45,24 @@ The model uses the [Pima Indians Diabetes Dataset](https://www.kaggle.com/datase
 **4. Programming Language**  
 - **Python** – Used for all tasks including data loading, preprocessing, model training, evaluation, and deployment.
 
+---
+
+## Features
+
+- Data preprocessing: handling missing values, scaling features
+- Support Vector Machine (SVM) classifier for accurate binary classification
+- Clean and interactive UI built with Streamlit for live predictions
+
+---
+
+## Success Metrics
+
+- **Training Accuracy:** `78.66%`  
+- **Test Accuracy:** `77.27%`  
+  The trained SVM model achieved a test accuracy of **77.27%**, indicating reliable performance in predicting diabetes using patient health records.
+
+---
+
+## Author
+
+- Sneha Kumar (NITRR)
